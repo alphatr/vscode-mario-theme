@@ -1,0 +1,22 @@
+{
+    "name": "mario-theme",
+    "displayName": "Mario Theme",
+    "description": "mario-theme",
+    "version": "0.0.1",
+    "publisher": "alphatr",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mario Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mario-color-theme.json"
+            }
+        ]
+    }
+}

@@ -13,10 +13,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "Mario Theme",
+                "label": "Mario Color Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mario-color-theme.json"
             }
-        ]
+        ],
+        "iconThemes": [
+			{
+				"id": "mario-icon-theme",
+				"label": "Mario Icon Theme",
+				"path": "./themes/mario-icon-theme.json"
+			}
+		]
     }
 }

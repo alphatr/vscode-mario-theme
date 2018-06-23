@@ -1154,7 +1154,7 @@
 		"statusBar.foreground": "#65737f", // 前景色
 		"statusBar.debuggingBackground": "#A7421A", // debug 状态背景色
 		"statusBar.debuggingForeground": "#FFFFFF", // debug 状态前景色
-		"statusBar.noFolderBackground": "#FF0000", // 空白状态背景色
+		"statusBar.noFolderBackground": "#1C1F26", // 空白状态背景色
 		"statusBarItem.hoverBackground": "#0003", // Hover 背景色
 
 		// 右侧滚动条 Overview Ruler

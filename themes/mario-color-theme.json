@@ -1172,6 +1172,10 @@
 		"input.foreground": "#C0C5CE", // 输入框前景色
 		"input.placeholderForeground": "#484F5A", // 输入框占位符前景色
 		"input.border": "#FFF0", // 输入框边框
+		"inputOption.hoverBackground":"#323946", // 输入框选项 Hover 背景色
+		"inputOption.activeBackground": "#33373f", // 输入框选项选中背景色
+		"inputOption.activeBorder":"#FFF0", // 输入框选项选中边框
+		"inputOption.activeForeground":"#E2E6EB", // 输入框选项选中前景色
 		"selection.background": "#99BBFF33", // 文字选中背景色
 
 		"focusBorder": "#FFF0", // 选中边框

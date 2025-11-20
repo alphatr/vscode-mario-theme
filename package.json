@@ -1,9 +1,15 @@
 {
     "name": "mario-theme",
     "displayName": "Mario Theme",
-    "description": "Mario Theme - A Modern Dark Theme for VSCode",
-    "version": "1.1.0",
+    "description": "A modern dark theme with a balanced color palette for enhanced readability and reduced eye strain.",
+    "version": "1.1.1",
     "publisher": "alphatr",
+    "icon": "icon.png",
+    "keywords": ["theme", "dark theme", "color theme", "icon theme"],
+    "galleryBanner": {
+        "color": "#282C34",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
@@ -35,5 +41,6 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/alphatr/vscode-mario-theme.git"
-    }
+    },
+    "license": "MIT"
 }

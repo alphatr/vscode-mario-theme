@@ -1,8 +1,8 @@
 {
     "name": "mario-theme",
     "displayName": "Mario Theme",
-    "description": "mario-theme",
-    "version": "1.0.0",
+    "description": "Mario Theme - A Modern Dark Theme for VSCode",
+    "version": "1.1.0",
     "publisher": "alphatr",
     "engines": {
         "vscode": "^1.60.0"

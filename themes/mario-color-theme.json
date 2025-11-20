@@ -1082,8 +1082,18 @@
 		"editorRuler.foreground": "#3B404870", // 80 字线颜色
 		"editorLineNumber.foreground": "#636d8399", // 编辑器行号前景色
 		"editorLineNumber.activeForeground": "#abb2bf99", // 编辑器当前行号前景色
-		"editorIndentGuide.background": "#3B404870", // 编辑器缩进线颜色
-		"editorIndentGuide.activeBackground": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.background1": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.background2": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.background3": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.background4": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.background5": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.background6": "#3B404870", // 编辑器缩进线颜色
+		"editorIndentGuide.activeBackground1": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.activeBackground2": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.activeBackground3": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.activeBackground4": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.activeBackground5": "#3B4048", // 编辑器当前缩进线颜色
+		"editorIndentGuide.activeBackground6": "#3B4048", // 编辑器当前缩进线颜色
 		"editorWhitespace.foreground": "#3B4048C0", // 不可见字符颜色
 
 		"editorGroupHeader.tabsBackground": "#1C1F26", // Tab 整体背景色
@@ -1214,8 +1224,8 @@
 
 		"activityBarBadge.background": "#528BFF", // activityBar Badge 背景色
 		"activityBarBadge.foreground": "#E7EAF0", // activityBar Badge 前景色
-		"badge.background": "#FFFFFF12", // 插件等 Badge 背景色
-		"badge.foreground": "#C0C5CE", // 插件等 Badge 前景色
+		"badge.background": "#34383db3", // 插件等 Badge 背景色
+		"badge.foreground": "#C0C5CE80", // 插件等 Badge 前景色
 		"button.background": "#0098FF", // 按钮背景色
 		"diffEditor.insertedTextBackground": "#00809B33", // diff 编辑器插入背景色
 		"diffEditor.removedTextBackground": "#FF537020", // diff 编辑器删除背景色
